@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Walls.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Players_Paddle.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Enemy_Placeholder_Wall.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/MasterPong_Player_Controller.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/IA_MasterPong_Movement.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/IM_MasterPong_Player_Controller.uasset",
