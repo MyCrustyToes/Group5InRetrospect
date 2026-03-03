@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/MainMenu.umap",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/MenuUI/MainMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/MainMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/PauseMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Lobby.umap",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Walls.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
