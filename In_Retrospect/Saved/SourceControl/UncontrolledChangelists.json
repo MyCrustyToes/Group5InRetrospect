@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/0/NT/2T77N3S69PPA31BYPW9A3B.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/5/UT/S7KW4CNO396XI1Q26ED0ST.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/5/JD/TX44Y9EUNEXSH8LXOSOSPW.uasset",
@@ -325,6 +326,17 @@
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Mario/4/JZ/NZ4ZE5BSX68ZICM0H112HO.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Mario/C/9T/V8DOWEVIOFREYH1GXHKKCG.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Mario.umap"
+=======
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Crash_Assets/BP_CrashCharacter.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/InputActions/IA_Movement.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/1/PU/YYQM076KNPHRNAHFADOD5Q.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/3/QV/HQQB6JHCYNFLRV9ZH0PR44.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/D/R9/INXIJHAL101Y3ZDTSYK3U5.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/3/ZT/23JR2ECBCDIX6H2ZZMRSD4.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_LobbyCharacter.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/NewMap.umap",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/LobbyGamemode.uasset"
+>>>>>>> 77f14c9 (A lil bit of work on crash)
 			]
 		}
 	]
