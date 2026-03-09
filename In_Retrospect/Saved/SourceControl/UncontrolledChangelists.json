@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/MarioCharacter.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Textures/LandingFlipbook.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/0/NT/2T77N3S69PPA31BYPW9A3B.uasset",
@@ -218,6 +219,13 @@
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_LobbyCharacter.uasset",
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/wawa.umap",
 >>>>>>> origin/main
+=======
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/MainMenu.umap",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/MenuUI/MainMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/MainMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/PauseMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Lobby.umap",
+>>>>>>> origin/Taegan
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Walls.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
