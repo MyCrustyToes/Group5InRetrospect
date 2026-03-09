@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/MarioCharacter.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Textures/LandingFlipbook.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/0/NT/2T77N3S69PPA31BYPW9A3B.uasset",
@@ -207,6 +208,16 @@
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Textures/LandingMovingFlipbook.uasset",
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/MarioCharacter.uasset",
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/8/FL/9LM8XFHR4MHWY7P4C1SDUC.uasset",
+=======
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_InRetroSpect.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Lobby.umap",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/WBP_Interact.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Guitar_Hero.umap",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/InputActions/IA_Interact.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/InputActions/IA_Movement.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_LobbyCharacter.uasset",
+				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/wawa.umap",
+>>>>>>> origin/main
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Walls.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
