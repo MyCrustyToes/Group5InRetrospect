@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Crash_Assets/BP_CrashCharacter.uasset",
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/InputActions/IA_Movement.uasset",
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/1/PU/YYQM076KNPHRNAHFADOD5Q.uasset",
@@ -14,6 +15,33 @@
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_LobbyCharacter.uasset",
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/NewMap.umap",
 				"C:/Users/Nathan/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/LobbyGamemode.uasset"
+=======
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/0/NT/2T77N3S69PPA31BYPW9A3B.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/5/UT/S7KW4CNO396XI1Q26ED0ST.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/5/JD/TX44Y9EUNEXSH8LXOSOSPW.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/7/PC/7M807CM070G6P7EPT3OOIB.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/A/VO/WOBL3DWEZD3MEACE1SSUA7.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/0/CL/50VYQ6T6LQLZ1OMVVL8PWI.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/1/2H/1NY16JVAUGY1LVTF3EG6B8.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/1/G5/V4WK3LT1R1LFG94SP0H6I3.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/1/AU/NYQYX9DLSBJY6V1G2NU657.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Default/A/Y6/9YZS18G9YJJ1RILPT9VBDX.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/BrickBlock.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Flag.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Textures/Flag_Sprite.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/MarioCharacter.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/LobbyGamemode.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Default.umap",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Lobby.umap",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_LobbyCharacter.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Master_Pong_GM.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Players_Paddle.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/EnemyPaddle.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Pipe.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/InputActions/IA_Movement.uasset",
+				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_InRetroSpect.uasset"
+>>>>>>> 6d60c24 (Pong bugfixes, lobby bugfixes, pipe in progress)
 			]
 		}
 	]
