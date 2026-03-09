@@ -18274,4 +18274,8 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.03.09-20.28.15:995][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2026.03.09-20.28.16:008][672]Cmd: MAP CHECKDEP NOCLEARLOG
 [2026.03.09-20.28.16:009][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.086ms to complete.
+<<<<<<< HEAD
 >>>>>>> dc92e72 (is this working now holy fuck)
+=======
+[2026.03.09-20.29.35:350][549]LogDerivedDataCache: C:/Users/rynba/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+>>>>>>> d473f0f (deez)
