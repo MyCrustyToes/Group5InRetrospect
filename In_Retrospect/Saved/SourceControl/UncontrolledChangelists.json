@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/rtm125/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Gabriel_MarioLevelDesign/D/2F/874VRH3ZWNF0QYZ8FJI388.uasset",
 				"C:/Users/rtm125/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/BrickBlock.uasset",
 				"C:/Users/rtm125/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/QuestionBlock.uasset",
@@ -197,6 +198,30 @@
 				"C:/Users/nl462/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/4/8H/FBSBT49GUFPF8LBMOV6OP7.uasset",
 				"C:/Users/nl462/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/NewMap/1/DF/XR7PFA5M22285JCZ9D44D9.uasset"
 >>>>>>> origin/Nat
+=======
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/MainMenu.umap",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/MainMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/PauseMenu.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Lobby.umap",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/TimeCrisisOverlay.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/Images/BulletIcon.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/Images/HealthIcon.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/Images/TimeCrisisMainOverlay.uasset",
+				"C:/Users/thfb100/OneDrive - Anglia Ruskin University/Documents/Group5InRetrospect/In_Retrospect/Content/MenuUI/MainMenu.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Walls.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Players_Paddle.uasset",
+				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Enemy_Placeholder_Wall.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/MasterPong_Player_Controller.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/IA_MasterPong_Movement.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/IM_MasterPong_Player_Controller.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Player_Paddle_Controler.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Players_Paddle.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
+				"E:/InRetrospect/In_Retrospect/Content/ArcadeLobby/BP_LobbyCharacter.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Master_Pong_GM.uasset"
+>>>>>>> origin/Taegan
 			]
 		}
 	]
