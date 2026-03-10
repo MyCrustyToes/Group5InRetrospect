@@ -2481,3 +2481,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.10-16.07.51:508][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.10-16.07.51:508][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332302.906250, Update Interval: 325.115509
 [2026.03.10-16.10.45:879][589]LogDerivedDataCache: C:/Users/Laptop/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.10-16.14.08:553][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332697.843750
+[2026.03.10-16.14.09:550][ 47]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-16.14.09:550][ 47]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332698.500000, Update Interval: 348.301025
+[2026.03.10-16.20.47:946][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 333109.593750
+[2026.03.10-16.20.48:948][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-16.20.48:948][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 333110.281250, Update Interval: 317.172150
+[2026.03.10-16.22.10:622][490]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.03.10-16.22.10:956][491]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Saved/Collections/' because it could not be accessed. Aborting watch request...
