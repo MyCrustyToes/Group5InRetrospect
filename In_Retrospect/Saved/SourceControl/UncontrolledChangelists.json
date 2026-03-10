@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Mario/2/OO/P3C3LOS72ABFDEA0JMUCWE.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Mario/A/LA/HJENBTJHDIBF5LBYV4FDPN.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/MarioCharacter.uasset",
@@ -369,6 +370,15 @@
 				"C:/Users/volla/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Gabriel_MarioLevelDesign/5/37/1IA42RUL8FXT151OYW6BK2.uasset",
 				"C:/Users/volla/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/Gabriel_MarioLevelDesign/5/A1/R1XLQJSLY6KFFYXWPTSS1B.uasset"
 >>>>>>> origin/gabriels-Mario-level-design
+=======
+				"E:/InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/UI_Pong.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Master_Pong_GM.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Player_Paddle_Controler.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Goal_Zone.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Players_Paddle.uasset"
+>>>>>>> origin/szymon
 			]
 		}
 	]
