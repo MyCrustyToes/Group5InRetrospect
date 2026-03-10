@@ -2489,6 +2489,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.10-16.20.48:948][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 333110.281250, Update Interval: 317.172150
 [2026.03.10-16.22.10:622][490]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2026.03.10-16.22.10:956][491]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Saved/Collections/' because it could not be accessed. Aborting watch request...
+<<<<<<< HEAD
 [2026.03.10-16.26.51:341][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 333484.218750
 [2026.03.10-16.26.52:343][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.10-16.26.52:343][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 333484.906250, Update Interval: 352.323975
@@ -2548,3 +2549,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.10-16.30.32:039][938]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.03.10-16.30.32:304][938]LogExit: Exiting.
 [2026.03.10-16.30.32:403][938]Log file closed, 03/10/26 16:30:32
+=======
+>>>>>>> origin/main
