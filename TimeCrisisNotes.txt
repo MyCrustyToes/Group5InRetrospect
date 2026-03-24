@@ -1,0 +1,9 @@
+Notes for Time Crisis blockout:
+
+The blue circles are the areas where the player character will stop so that the player can take on the next wave of enemies. Once all of the enemies are defeated, the player character will move to the next blue circle (Path indicated by the blue spline called 'PlayerPath').
+
+The red circles are the areas where enemies will spawn. For rooms with multiple blue circles, a number is present on the red circles to indicate when that enemy will be fought. The player will defeat all of the enemies marked '1' before moving to the next blue circle and defeating all of the enemies marked '2' and so on.
+
+If you're confused by anything feel free to send me a message on discord.
+
+-Taegan
