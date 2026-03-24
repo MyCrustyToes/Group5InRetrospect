@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/Maps/weapon_testing.umap",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/gun_Test/3/F0/A28FOCA6BX9N8D0I6G5CFW.uasset",
 				"C:/Users/ss3321/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/gun_Test/3/6W/O57E8Y4EA0CHQC175B1XGT.uasset",
@@ -181,6 +182,10 @@
 				"C:/Users/hc719/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/people/fabi/Wave_Hip_Hop_Dance_Skeleton.uasset"
 =======
 >>>>>>> origin/Haydon
+=======
+				"C:/Users/gppv100/Documents/Group5InRetrospect/In_Retrospect/Content/Pong_UI/VictoryScreen.uasset",
+				"C:/Users/gppv100/Documents/Group5InRetrospect/In_Retrospect/Content/Pong_UI/YouLoseScreen.uasset",
+>>>>>>> origin/Pong-victory-and-lose-screen-added
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/MarioCharacter.uasset",
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/UIWidgets/PauseMenu.uasset",
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/CoinItem.uasset",
