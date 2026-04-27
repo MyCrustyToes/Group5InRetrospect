@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/TimeCrisis_Enemy.uasset",
 				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/Enemy_AI/AIC_Enemy_Base.uasset",
 				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/Enemy_AI/BTTask_Attack.uasset",
@@ -35,6 +36,26 @@
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/songs/GoWithTheFlowMetaSound.uasset",
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/songs/GWTFMetaSound.uasset",
 				"C:/Users/Laptop/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/songs/Queens_Of_The_Stone_Age_-_Go_With_The_Flow.uasset"
+=======
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/songs/GWTF_with_markers.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/BlueButton.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/BlueGoal.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/BluePressed.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/GreenButton.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/GreenGoal.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/GreenPressed.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/linez.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/OrangeButton.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/OrangeGoal.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/OrangePressed.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/RedButton.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/RedGoal.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/RedPressed.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/YellowButton.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/YellowGoal.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/YellowPressed.uasset",
+				"E:/InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisisMap/8/4M/3LY02VE9C29FU07AYOZMIG.uasset"
+>>>>>>> 84f6a778cd009c2409952ee5007ed91ff262fcd9
 			]
 		}
 	]
