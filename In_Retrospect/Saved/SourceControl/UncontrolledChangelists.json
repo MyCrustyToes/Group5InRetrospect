@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/songs/GWTF_with_markers.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/BlueButton.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/guitar_hero/art_assets/trackStuff/BlueGoal.uasset",
@@ -490,6 +491,16 @@
 				"E:/InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisis_Art/8/60/PGEWO3UDXNZWK3699AWQQ9.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisis_Art/0/S4/M76OFGS8NFXRFFPGPBG9EZ.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisisMap/8/4M/3LY02VE9C29FU07AYOZMIG.uasset"
+=======
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/Enemy_AI/BTTask_Attack.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/TimeCrisis_Character.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/Enemy_AI/TimeCrisis_Enemy.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisisMap/B/C9/5QIPWDPY87M55627VN3II0.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/TimeCrisis_Assets/Character/Enemy_AI/TimeCrisis_Enemy_base_BT.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Pong_Ball.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Master_Pong_Assets/Gamemode/Players_Paddle.uasset",
+				"C:/Users/kosmo/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/Mario_Assets/Flag.uasset"
+>>>>>>> origin/Thomas
 			]
 		}
 	]
