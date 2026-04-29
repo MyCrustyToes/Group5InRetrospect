@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/BP_Track.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/BP_TrackManager.uasset",
 				"C:/Users/rynba/OneDrive/Documents/Group5InRetrospect/In_Retrospect/Content/guitar_hero/BP_HoldNote.uasset",
@@ -926,6 +927,21 @@
 				"E:/InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisis_Art/9/W4/BZGXTV0IC8JT5OIHFW4MCG.uasset",
 				"E:/InRetrospect/In_Retrospect/Content/__ExternalActors__/Maps/TimeCrisis_Art/8/RM/O7RNEPA78F0WTT58OAFCA0.uasset"
 >>>>>>> origin/main
+=======
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/Lobby.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/MainMenu.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/Guitar_Hero.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/Pong_Machine.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/UIWidgets/PauseMenu.uasset",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/Crash_map.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/TimeCrisisMap.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/TimeCrisis_Art.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/Gabriel_MarioLevelDesign.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/Mario.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/Maps/WinScreen.umap",
+				"C:/Group5InRetrospect/In_Retrospect/Content/UIWidgets/Images/WinBG.uasset",
+				"C:/Group5InRetrospect/In_Retrospect/Content/UIWidgets/WinScreen.uasset"
+>>>>>>> origin/Taegan
 			]
 		}
 	]
